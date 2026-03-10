@@ -2,7 +2,7 @@ Hello! I made this resource for fun, and it can be very useful for developers.
 
 This ModuleScript is inspired by **Muchacho Hitbox** made by @SushiMaster. Unlike MuchachoHitbox, this system uses **connection-based APIs**, which makes it more reliable and optimized.
 
-In **Single mode**, the hitbox can run with around **0.040 script activity**.
+In **Single mode**, the hitbox can run with around **0.040/0.15 script activity**.
 
 Some APIs you might like:
 
